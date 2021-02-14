@@ -1,0 +1,10 @@
+C:\Users\Matyo\source\repos\szt2_gyak1_jpwqqk\szt2_gyak1_jpwqqk\bin\Debug\szt2_gyak1_jpwqqk.exe.config
+C:\Users\Matyo\source\repos\szt2_gyak1_jpwqqk\szt2_gyak1_jpwqqk\bin\Debug\szt2_gyak1_jpwqqk.exe
+C:\Users\Matyo\source\repos\szt2_gyak1_jpwqqk\szt2_gyak1_jpwqqk\bin\Debug\szt2_gyak1_jpwqqk.pdb
+C:\Users\Matyo\source\repos\szt2_gyak1_jpwqqk\szt2_gyak1_jpwqqk\obj\Debug\szt2_gyak1_jpwqqk.csprojAssemblyReference.cache
+C:\Users\Matyo\source\repos\szt2_gyak1_jpwqqk\szt2_gyak1_jpwqqk\obj\Debug\szt2_gyak1_jpwqqk.Form1.resources
+C:\Users\Matyo\source\repos\szt2_gyak1_jpwqqk\szt2_gyak1_jpwqqk\obj\Debug\szt2_gyak1_jpwqqk.Properties.Resources.resources
+C:\Users\Matyo\source\repos\szt2_gyak1_jpwqqk\szt2_gyak1_jpwqqk\obj\Debug\szt2_gyak1_jpwqqk.csproj.GenerateResource.cache
+C:\Users\Matyo\source\repos\szt2_gyak1_jpwqqk\szt2_gyak1_jpwqqk\obj\Debug\szt2_gyak1_jpwqqk.csproj.CoreCompileInputs.cache
+C:\Users\Matyo\source\repos\szt2_gyak1_jpwqqk\szt2_gyak1_jpwqqk\obj\Debug\szt2_gyak1_jpwqqk.exe
+C:\Users\Matyo\source\repos\szt2_gyak1_jpwqqk\szt2_gyak1_jpwqqk\obj\Debug\szt2_gyak1_jpwqqk.pdb
